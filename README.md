@@ -19,8 +19,8 @@ Building distributed software, high-throughput network engines, and physical/dig
       </a>
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent;">
-      <b>Founder &amp; CEO</b> &mdash; <b><a href="https://examcodes.site">ExamCodes</a></b><br />
-      Digital learning infrastructure platform and competitive examination marketplace. Engineered with React, Supabase real-time persistence, and automated financial transaction pipelines.
+      <b>Founder &amp; CEO</b> &mdash; <b><a href="https://examcodes.site">ExamCodes</a></b> &bull; <code>1,100+ Monthly Active Users</code><br />
+      Digital learning infrastructure platform and competitive examination marketplace serving 1,100+ monthly active students. Engineered with React, Supabase real-time persistence, and automated financial transaction pipelines.
     </td>
   </tr>
   <tr style="border: none; background: transparent;">
