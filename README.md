@@ -12,9 +12,9 @@ Building distributed software, high-throughput network engines, and physical/dig
 
 <table border="0" style="border: none; background: transparent; border-collapse: collapse;">
   <tr style="border: none; background: transparent;">
-    <td width="64" valign="middle" align="center" style="border: none; background: transparent; padding-right: 16px;">
+    <td width="88" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px;">
       <a href="https://examcodes.site">
-        <img src="assets/examcodes-logo.svg" alt="ExamCodes" width="56" height="56" style="border-radius: 10px;" />
+        <img src="assets/examcodes-logo.svg" alt="ExamCodes" width="52" height="52" style="border-radius: 10px;" />
       </a>
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent;">
@@ -23,10 +23,10 @@ Building distributed software, high-throughput network engines, and physical/dig
     </td>
   </tr>
   <tr style="border: none; background: transparent;">
-    <td width="64" valign="middle" align="center" style="border: none; background: transparent; padding-right: 16px; padding-top: 16px;">
-      <img src="assets/aranch-pass-seal.webp" alt="Aranch Pass" width="56" height="56" style="border-radius: 10px; object-fit: cover;" />
+    <td width="88" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
+      <img src="assets/aranch-pass-seal.webp" alt="Aranch Pass" width="76" height="45" style="border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.35);" />
     </td>
-    <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 16px;">
+    <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
       <b>Founder &amp; CEO</b> &mdash; <b>Aranch Pass</b><br />
       Physical identity and asset verification system. Numbered, traceable passport-seal architecture connecting physical products to authenticated digital service layers.
     </td>
