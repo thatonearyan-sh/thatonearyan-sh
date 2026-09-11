@@ -1,6 +1,6 @@
 # Aryan
 
-**Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & CEO**, Aranch Pass  
+**Founder & Creator**, [ExamCodes Bot](https://examcodes.site) &bull; **Founder & CEO**, Aranch Pass  
 **Owner**, TG-KRONOS &bull; **CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
 *Systems & Infrastructure Engineer &bull; Distributed Software Architecture*
 
@@ -15,12 +15,12 @@ Building distributed software, high-throughput network engines, and physical/dig
   <tr style="border: none; background: transparent;">
     <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px;">
       <a href="https://examcodes.site">
-        <img src="assets/examcodes-logo.svg" alt="ExamCodes" width="52" height="52" style="border-radius: 10px;" />
+        <img src="assets/examcodes-bot-logo.png" alt="ExamCodes Bot" width="52" height="52" style="border-radius: 10px;" />
       </a>
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent;">
-      <b>Founder &amp; CEO</b> &mdash; <b><a href="https://examcodes.site">ExamCodes</a></b> &bull; <code>1,100+ Monthly Active Users</code><br />
-      Digital learning infrastructure platform and competitive examination marketplace serving 1,100+ monthly active students. Engineered with React, Supabase real-time persistence, and automated financial transaction pipelines.
+      <b>Founder &amp; Creator</b> &mdash; <b><a href="https://examcodes.site">ExamCodes Bot</a></b> &bull; <code>1,100+ Monthly Active Users</code><br />
+      Autonomous Telegram examination infrastructure and fulfillment engine linked directly with <a href="https://examcodes.site">examcodes.site</a>. Built in Python AsyncIO and aiogram 3.x with Kronos Control architecture, featuring automated test paper &amp; subscription fulfillment, real-time vector receipt generation (PIL/Pillow), and synchronized student wallet ledgers.
     </td>
   </tr>
   <tr style="border: none; background: transparent;">
