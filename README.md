@@ -19,8 +19,8 @@ Building distributed software, high-throughput network engines, and physical/dig
       </a>
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent;">
-      <b>Founder &amp; CEO</b> &mdash; <b><a href="https://examcodes.site">ExamCodes</a></b> &bull; <code>1,100+ MAU</code> &bull; <code>₹15k+ First 30 Days (0 Audience)</code><br />
-      Digital learning infrastructure platform and competitive examination marketplace. Bootstrapped to ₹15,000+ revenue within the first 30 days of launch with zero audience; serving 1,100+ monthly active learners. Engineered with React, Supabase real-time persistence, and automated payment pipelines.
+      <b>Founder &amp; CEO</b> &mdash; <b><a href="https://examcodes.site">ExamCodes</a></b> &bull; <code>1,100+ MAU</code> &bull; <code>₹15k+ First Month</code><br />
+      Digital learning infrastructure platform and competitive examination marketplace. Bootstrapped from a cold launch with zero initial following to ₹15,000+ in revenue within its first 30 days; actively serving 1,100+ monthly learners. Engineered with React, Supabase real-time persistence, and automated payment pipelines.
     </td>
   </tr>
   <tr style="border: none; background: transparent;">
