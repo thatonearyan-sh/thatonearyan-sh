@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="t02l">
+  <title id="t02l">Kronos — Arc mark, light</title>
+
+  <!-- LIGHT VARIANT for white dashboards, invoices, email receipts.
+       Not a naive inversion: on white, a mid-grey inner ring would go muddy,
+       so the tonal separation is re-cut — near-black outer, mid-grey inner. -->
+
+  <rect width="512" height="512" rx="112" fill="#F7F7F7"/>
+
+  <path d="M 422 256
+           A 166 166 0 1 1 256 90"
+        fill="none" stroke="#141414" stroke-width="44" stroke-linecap="round"/>
+
+  <path d="M 168 256
+           A 88 88 0 0 1 344 256"
+        fill="none" stroke="#8A8A8A" stroke-width="44" stroke-linecap="round"/>
+
+  <circle cx="373.38" cy="373.38" r="22" fill="#141414"/>
+</svg>
