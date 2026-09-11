@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="16" fill="#000000"/>
+  <rect x="4" y="4" width="120" height="120" rx="12" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="2"/>
+  <!-- Terminal bracket -->
+  <text x="64" y="82" text-anchor="middle" font-family="monospace, 'Courier New'" font-size="72" font-weight="bold" fill="white" filter="url(#glow)">Ξ</text>
+  <!-- Glow filter -->
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  <!-- Subtle bottom line accent -->
+  <line x1="32" y1="104" x2="96" y2="104" stroke="white" stroke-width="2" opacity="0.6"/>
+  <line x1="40" y1="110" x2="88" y2="110" stroke="white" stroke-width="1.5" opacity="0.3"/>
+</svg>
