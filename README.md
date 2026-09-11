@@ -1,6 +1,6 @@
 # Aryan
 
-**Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & CEO**, Aranch Pass  
+**Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & CEO**, Aranch Pass &bull; **CTO**, KronosSMM  
 *Systems & Infrastructure Engineer &bull; Distributed Software Architecture*
 
 Building distributed software, high-throughput network engines, and physical/digital identity systems since 2022 (~3.5+ years of shipping code).  
@@ -8,7 +8,7 @@ Building distributed software, high-throughput network engines, and physical/dig
 
 ---
 
-### Ventures & Operating
+### Ventures & Leadership
 
 <table border="0" style="border: none; background: transparent; border-collapse: collapse;">
   <tr style="border: none; background: transparent;">
@@ -29,6 +29,15 @@ Building distributed software, high-throughput network engines, and physical/dig
     <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
       <b>Founder &amp; CEO</b> &mdash; <b>Aranch Pass</b><br />
       Physical identity and asset verification system. Numbered, traceable passport-seal architecture connecting physical products to authenticated digital service layers.
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td width="88" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
+      <img src="assets/kronos-logo.svg" alt="KronosSMM" width="52" height="52" style="border-radius: 10px;" />
+    </td>
+    <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
+      <b>Chief Technology Officer</b> &mdash; <b>KronosSMM</b><br />
+      Institutional Telegram growth &amp; fulfillment engine. Engineered in high-concurrency Python AsyncIO, aiogram 3.x, and FastAPI, bridging wholesale SMM APIs with dynamic UPI/TON payment reconciliation and automated vector PDF invoicing.
     </td>
   </tr>
 </table>
