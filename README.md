@@ -1,7 +1,7 @@
 # Aryan
 
 **Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & CEO**, Aranch Pass  
-**CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
+**Owner**, TG-KRONOS &bull; **CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
 *Systems & Infrastructure Engineer &bull; Distributed Software Architecture*
 
 Building distributed software, high-throughput network engines, and physical/digital identity systems since 2022 (~3.5+ years of shipping code).  
@@ -34,11 +34,20 @@ Building distributed software, high-throughput network engines, and physical/dig
   </tr>
   <tr style="border: none; background: transparent;">
     <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
+      <img src="assets/tgkronos-logo.svg" alt="TG-KRONOS" width="52" height="52" style="border-radius: 10px;" />
+    </td>
+    <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
+      <b>Owner &amp; Systems Architect</b> &mdash; <b>TG-KRONOS</b> &bull; <code>v2.0 Telephony Engine</code><br />
+      Autonomous virtual numbers provisioning, telecommunications asset management, and session orchestration engine. Architected with Domain-Driven Design (DDD), Python AsyncIO, Pyrogram/Telethon MTProto pipelines, AES-256 encrypted session vaults, dynamic multi-country inventory lifecycles, and automated OTP delivery rails.
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
       <img src="assets/kronos-logo-flat.svg" alt="Kronos Noir Flat" width="46" height="46" style="border-radius: 10px;" />&nbsp;<img src="assets/kronos-logo-light.svg" alt="Kronos Cream Light" width="46" height="46" style="border-radius: 10px;" />
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
-      <b>Chief Technology Officer &amp; Lead Systems Developer</b> &mdash; <b>KronosSMM</b> &bull; <code>TG-KRONOS v2.0</code><br />
-      Institutional Telegram growth, virtual telephony &amp; fulfillment infrastructure. Lead developer of the automated virtual numbers provisioning engine&mdash;architected in Python AsyncIO, Pyrogram/Telethon MTProto pipelines, DDD domain layer, AES-256 encrypted session vaults, dynamic multi-country inventory management, and automated OTP delivery rails.
+      <b>Chief Technology Officer</b> &mdash; <b>KronosSMM</b><br />
+      Institutional Telegram growth &amp; fulfillment engine. Engineered in high-concurrency Python AsyncIO, aiogram 3.x, and FastAPI, bridging wholesale SMM APIs with dynamic UPI/TON payment reconciliation and automated vector PDF invoicing.
     </td>
   </tr>
   <tr style="border: none; background: transparent;">
