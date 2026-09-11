@@ -37,8 +37,8 @@ Building distributed software, high-throughput network engines, and physical/dig
       <img src="assets/kronos-logo-flat.svg" alt="Kronos Noir Flat" width="46" height="46" style="border-radius: 10px;" />&nbsp;<img src="assets/kronos-logo-light.svg" alt="Kronos Cream Light" width="46" height="46" style="border-radius: 10px;" />
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
-      <b>Chief Technology Officer</b> &mdash; <b>KronosSMM</b><br />
-      Institutional Telegram growth &amp; fulfillment engine. Engineered in high-concurrency Python AsyncIO, aiogram 3.x, and FastAPI, bridging wholesale SMM APIs with dynamic UPI/TON payment reconciliation and automated vector PDF invoicing.
+      <b>Chief Technology Officer &amp; Lead Systems Developer</b> &mdash; <b>KronosSMM</b> &bull; <code>TG-KRONOS v2.0</code><br />
+      Institutional Telegram growth, virtual telephony &amp; fulfillment infrastructure. Lead developer of the automated virtual numbers provisioning engine&mdash;architected in Python AsyncIO, Pyrogram/Telethon MTProto pipelines, DDD domain layer, AES-256 encrypted session vaults, dynamic multi-country inventory management, and automated OTP delivery rails.
     </td>
   </tr>
   <tr style="border: none; background: transparent;">
@@ -56,6 +56,7 @@ Building distributed software, high-throughput network engines, and physical/dig
 
 ### Core Engineering Focus
 
+- **Virtual Numbers & Telephony Engines**: High-throughput virtual phone number routing, MTProto/Pyrogram OTP validation, multi-country inventory lifecycles, and AES-256 session state machines.
 - **Distributed Systems & Protocols**: Multi-session client synchronization, MTProto presence stripping, real-time WebSocket event buses, and asynchronous RPC query architectures.
 - **In-Memory Volatile Security**: Ephemeral RAM-only payload decryption, hardware-fingerprinted licensing, and zero-disk process execution.
 - **Financial & Blockchain Rails**: Autonomous on-chain transaction monitoring (TON Network), memo-matched settlements, and unified UPI verification gateways.
@@ -65,9 +66,9 @@ Building distributed software, high-throughput network engines, and physical/dig
 ### Technical Arsenal
 
 - **Languages:** `Python` &bull; `TypeScript` &bull; `JavaScript` &bull; `C++` &bull; `SQL` &bull; `Bash`
-- **Backend & Systems:** `FastAPI` &bull; `AsyncIO` &bull; `MTProto` &bull; `Node.js` &bull; `WebSockets` &bull; `Linux` &bull; `Docker`
-- **Data & Cloud:** `PostgreSQL` &bull; `Supabase` &bull; `MongoDB Atlas` &bull; `Redis` &bull; `Vercel Serverless`
-- **Security & Protocols:** `Stream Ciphers (SHA-256 CTR)` &bull; `Reverse Engineering` &bull; `TON Network` &bull; `SOCKS5/Tor Routing`
+- **Backend & Systems:** `FastAPI` &bull; `AsyncIO` &bull; `Pyrogram / Telethon` &bull; `MTProto` &bull; `Node.js` &bull; `WebSockets` &bull; `Linux` &bull; `Docker`
+- **Architecture & Security:** `Domain-Driven Design (DDD)` &bull; `AES-256 Session Vaults` &bull; `Stream Ciphers (SHA-256 CTR)` &bull; `Reverse Engineering` &bull; `SOCKS5/Tor Routing`
+- **Data & Cloud:** `PostgreSQL` &bull; `Supabase` &bull; `MongoDB Atlas` &bull; `Redis` &bull; `TON Network` &bull; `Vercel Serverless`
 
 ---
 
