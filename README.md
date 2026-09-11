@@ -1,6 +1,6 @@
 # Aryan
 
-**Founder & Creator**, [ExamCodes Bot](https://examcodes.site) &bull; **Founder & CEO**, Aranch Pass  
+**Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & Creator**, ExamCodes Bot &bull; **Founder & CEO**, Aranch Pass  
 **Owner**, TG-KRONOS &bull; **CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
 *Systems & Infrastructure Engineer &bull; Distributed Software Architecture*
 
@@ -15,12 +15,21 @@ Building distributed software, high-throughput network engines, and physical/dig
   <tr style="border: none; background: transparent;">
     <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px;">
       <a href="https://examcodes.site">
-        <img src="assets/examcodes-bot-logo.png" alt="ExamCodes Bot" width="52" height="52" style="border-radius: 10px;" />
+        <img src="assets/examcodes-logo.svg" alt="ExamCodes Site" width="52" height="52" style="border-radius: 10px;" />
       </a>
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent;">
-      <b>Founder &amp; Creator</b> &mdash; <b><a href="https://examcodes.site">ExamCodes Bot</a></b> &bull; <code>1,100+ Monthly Active Users</code><br />
-      Autonomous Telegram examination infrastructure and fulfillment engine linked directly with <a href="https://examcodes.site">examcodes.site</a>. Built in Python AsyncIO and aiogram 3.x with Kronos Control architecture, featuring automated test paper &amp; subscription fulfillment, real-time vector receipt generation (PIL/Pillow), and synchronized student wallet ledgers.
+      <b>Founder &amp; CEO</b> &mdash; <b><a href="https://examcodes.site">ExamCodes</a></b> &bull; <code>1,100+ MAU</code> &bull; <code>₹15k+ First 30 Days (0 Audience)</code><br />
+      Digital learning infrastructure platform and competitive examination marketplace. Bootstrapped to ₹15,000+ revenue within the first 30 days of launch with zero audience; serving 1,100+ monthly active learners. Engineered with React, Supabase real-time persistence, and automated payment pipelines.
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
+      <img src="assets/examcodes-bot-logo.png" alt="ExamCodes Bot" width="52" height="52" style="border-radius: 10px;" />
+    </td>
+    <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
+      <b>Founder &amp; Creator</b> &mdash; <b>ExamCodes Bot</b> &bull; <code>Powered by Kronos Control</code><br />
+      Autonomous Telegram examination infrastructure and test paper fulfillment engine linked directly with <a href="https://examcodes.site">examcodes.site</a>. Built in Python AsyncIO and aiogram 3.x, featuring automated test paper &amp; subscription fulfillment, real-time vector receipt generation (PIL/Pillow), and synchronized student wallet ledgers.
     </td>
   </tr>
   <tr style="border: none; background: transparent;">
