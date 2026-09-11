@@ -1,24 +1,34 @@
 # Aryan
 
-**Founder & CEO, [ExamCodes](https://examcodes.site)** &bull; Systems & Infrastructure Engineer
+**Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & CEO**, Aranch Pass  
+*Systems & Infrastructure Engineer &bull; Distributed Software Architecture*
 
-Building distributed software, high-throughput network engines, and production web platforms since 2022 (~3.5+ years of shipping software).  
+Building distributed software, high-throughput network engines, and physical/digital identity systems since 2022 (~3.5+ years of shipping code).  
 *Primary open-source engineering profile migrated to `@thatonearyan-sh`.*
 
 ---
 
-### Operating & Leadership
+### Ventures & Operating
 
 <table border="0" style="border: none; background: transparent; border-collapse: collapse;">
   <tr style="border: none; background: transparent;">
-    <td width="72" valign="middle" align="center" style="border: none; background: transparent; padding-right: 16px;">
+    <td width="64" valign="middle" align="center" style="border: none; background: transparent; padding-right: 16px;">
       <a href="https://examcodes.site">
-        <img src="assets/examcodes-logo.svg" alt="ExamCodes Logo" width="64" height="64" style="border-radius: 12px;" />
+        <img src="assets/examcodes-logo.svg" alt="ExamCodes" width="56" height="56" style="border-radius: 10px;" />
       </a>
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent;">
-      <b>Founder &amp; CEO</b> at <b><a href="https://examcodes.site">ExamCodes</a></b><br />
-      An interactive digital learning infrastructure platform and competitive examination marketplace built for scale across India. Engineered with React, Supabase real-time persistence, and automated financial transaction pipelines.
+      <b>Founder &amp; CEO</b> &mdash; <b><a href="https://examcodes.site">ExamCodes</a></b><br />
+      Digital learning infrastructure platform and competitive examination marketplace. Engineered with React, Supabase real-time persistence, and automated financial transaction pipelines.
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td width="64" valign="middle" align="center" style="border: none; background: transparent; padding-right: 16px; padding-top: 16px;">
+      <img src="assets/aranch-pass-seal.webp" alt="Aranch Pass" width="56" height="56" style="border-radius: 10px; object-fit: cover;" />
+    </td>
+    <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 16px;">
+      <b>Founder &amp; CEO</b> &mdash; <b>Aranch Pass</b><br />
+      Physical identity and asset verification system. Numbered, traceable passport-seal architecture connecting physical products to authenticated digital service layers.
     </td>
   </tr>
 </table>
@@ -39,15 +49,6 @@ Building distributed software, high-throughput network engines, and production w
 - **Backend & Systems:** `FastAPI` &bull; `AsyncIO` &bull; `MTProto` &bull; `Node.js` &bull; `WebSockets` &bull; `Linux` &bull; `Docker`
 - **Data & Cloud:** `PostgreSQL` &bull; `Supabase` &bull; `MongoDB Atlas` &bull; `Redis` &bull; `Vercel Serverless`
 - **Security & Protocols:** `Stream Ciphers (SHA-256 CTR)` &bull; `Reverse Engineering` &bull; `TON Network` &bull; `SOCKS5/Tor Routing`
-
----
-
-### GitHub Telemetry
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thatonearyan-sh&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thatonearyan-sh&theme=github_dark&hide_border=true" height="150" alt="GitHub Streak" />
-</p>
 
 ---
 
