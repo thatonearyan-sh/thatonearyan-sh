@@ -25,7 +25,7 @@ Building distributed software, high-throughput network engines, and physical/dig
   </tr>
   <tr style="border: none; background: transparent;">
     <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
-      <img src="assets/aranch-pass-seal.webp" alt="Aranch Pass" width="76" height="45" style="border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.35);" />
+      <img src="assets/aranch-logo-flat.svg" alt="Aranch Pass Deep Violet" width="46" height="46" style="border-radius: 10px;" />&nbsp;<img src="assets/aranch-logo-light.svg" alt="Aranch Pass Ivory" width="46" height="46" style="border-radius: 10px;" />
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
       <b>Founder &amp; CEO</b> &mdash; <b>Aranch Pass</b><br />

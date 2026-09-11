@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="ARANCH PASS — Brand Mark, Light">
+  <title>ARANCH PASS — Brand Mark, Light</title>
+  <rect width="512" height="512" rx="112" fill="#F3F0D6"/>
+
+  <!-- Service-ticket notch geometry (Deep Violet Coupon) -->
+  <path d="M 112 152 H 400 L 424 176 V 232 L 408 256 L 424 280 V 336 L 400 360 H 112 L 88 336 V 280 L 104 256 L 88 232 V 176 Z" 
+        fill="#2E0759"/>
+
+  <!-- Architectural 'A' Monogram (Ivory) -->
+  <path d="M 144 320 L 201.6 184 H 238.4 L 296 320 H 256 L 244.8 290.4 H 191.2 L 180 320 Z M 203.2 256.8 H 232.8 L 218 216.4 Z" 
+        fill="#F3F0D6"/>
+
+  <!-- Telemetry Connection Trace -->
+  <line x1="288" y1="264" x2="332" y2="264" 
+        stroke="#F4AD08" stroke-width="18" stroke-linecap="round"/>
+
+  <!-- Asset Verification QR Sensor Node -->
+  <circle cx="356" cy="264" r="44" fill="#F4AD08"/>
+
+  <!-- Sensor Micro-matrix -->
+  <rect x="336" y="244" width="16" height="16" rx="2" fill="#2E0759"/>
+  <rect x="364" y="244" width="12" height="12" rx="2" fill="#2E0759"/>
+  <rect x="336" y="272" width="12" height="12" rx="2" fill="#2E0759"/>
+  <rect x="360" y="272" width="16" height="16" rx="2" fill="#2E0759"/>
+</svg>
