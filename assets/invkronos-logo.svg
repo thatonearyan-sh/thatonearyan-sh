@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="INVKRONOS Logo">
+  <title>INVKRONOS — System Engine Logo</title>
+  <rect width="128" height="128" rx="16" fill="#000000"/>
+  <rect x="4" y="4" width="120" height="120" rx="12" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="2"/>
+  
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Precision Cyber 'IK' Monogram -->
+  <g fill="white" filter="url(#glow)">
+    <!-- 'I' Telemetry Column -->
+    <rect x="31" y="34" width="12" height="50" rx="2"/>
+    
+    <!-- 'K' Stem & Vector Arms -->
+    <rect x="51" y="34" width="12" height="50" rx="2"/>
+    <!-- Upper Arm -->
+    <polygon points="63,58 85,34 97,34 73,60"/>
+    <!-- Lower Arm -->
+    <polygon points="70,55 97,84 84,84 63,60"/>
+  </g>
+
+  <!-- Bottom Telemetry Frequency Lines identical to ExamCodes -->
+  <line x1="32" y1="104" x2="96" y2="104" stroke="white" stroke-width="2" opacity="0.6"/>
+  <line x1="40" y1="110" x2="88" y2="110" stroke="white" stroke-width="1.5" opacity="0.3"/>
+</svg>

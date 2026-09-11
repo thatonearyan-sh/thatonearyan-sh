@@ -1,7 +1,7 @@
 # Aryan
 
 **Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & Creator**, ExamCodes Bot &bull; **Founder & CEO**, Aranch Pass  
-**Owner**, TG-KRONOS &bull; **CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
+**Owner**, TG-KRONOS &bull; **Architect**, INVKRONOS &bull; **CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
 *Systems & Infrastructure Engineer &bull; Distributed Software Architecture*
 
 Building distributed software, high-throughput network engines, and physical/digital identity systems since 2022 (~3.5+ years of shipping code).  
@@ -48,6 +48,15 @@ Building distributed software, high-throughput network engines, and physical/dig
     <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
       <b>Owner &amp; Systems Architect</b> &mdash; <b>TG-KRONOS</b> &bull; <code>v2.0 Telephony Engine</code><br />
       Autonomous virtual numbers provisioning, telecommunications asset management, and session orchestration engine. Architected with Domain-Driven Design (DDD), Python AsyncIO, Pyrogram/Telethon MTProto pipelines, AES-256 encrypted session vaults, dynamic multi-country inventory lifecycles, and automated OTP delivery rails.
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
+      <img src="assets/invkronos-logo.svg" alt="INVKRONOS" width="52" height="52" style="border-radius: 10px;" />
+    </td>
+    <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
+      <b>System Architect</b> &mdash; <b>INVKRONOS</b> &bull; <code>Built from Scratch</code><br />
+      Autonomous high-concurrency Telegram invitation and multi-session scraper engine (21,000+ lines of code across 415 commits). Built from scratch in Python AsyncIO and Telethon MTProto, featuring distributed multi-session pooling, automated TON blockchain payment watcher, ephemeral RAM decryption, and anti-flood wait handling.
     </td>
   </tr>
   <tr style="border: none; background: transparent;">
