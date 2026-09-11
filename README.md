@@ -9,7 +9,19 @@ Building distributed software, high-throughput network engines, and production w
 
 ### Operating & Leadership
 
-- **Founder & CEO** at **[ExamCodes](https://examcodes.site)** &mdash; An interactive digital learning infrastructure platform and competitive examination marketplace built for scale across India. Engineered with React, Supabase real-time persistence, and automated financial transaction pipelines.
+<table border="0" style="border: none; background: transparent; border-collapse: collapse;">
+  <tr style="border: none; background: transparent;">
+    <td width="72" valign="middle" align="center" style="border: none; background: transparent; padding-right: 16px;">
+      <a href="https://examcodes.site">
+        <img src="assets/examcodes-logo.svg" alt="ExamCodes Logo" width="64" height="64" style="border-radius: 12px;" />
+      </a>
+    </td>
+    <td valign="middle" align="left" style="border: none; background: transparent;">
+      <b>Founder &amp; CEO</b> at <b><a href="https://examcodes.site">ExamCodes</a></b><br />
+      An interactive digital learning infrastructure platform and competitive examination marketplace built for scale across India. Engineered with React, Supabase real-time persistence, and automated financial transaction pipelines.
+    </td>
+  </tr>
+</table>
 
 ---
 
