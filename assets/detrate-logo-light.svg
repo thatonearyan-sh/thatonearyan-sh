@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="DETRATEBTU Oracle Mark, Light">
+  <title>DETRATEBTU — Oracle Delta Mark, Light</title>
+  <rect width="512" height="512" rx="112" fill="#F7F7F7"/>
+  
+  <!-- Left vertical telemetry pillar -->
+  <line x1="164" y1="136" x2="164" y2="376" stroke="#141414" stroke-width="44" stroke-linecap="round"/>
+  
+  <!-- Precision Oracle Arc -->
+  <path d="M 164 136 C 356 136 386 230 386 256 C 386 282 356 376 164 376" 
+        fill="none" stroke="#141414" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Inner Delta Trend Beam -->
+  <path d="M 216 324 L 296 220" 
+        fill="none" stroke="#8A8A8A" stroke-width="36" stroke-linecap="round"/>
+        
+  <!-- Horizontal consensus baseline -->
+  <line x1="216" y1="324" x2="304" y2="324" stroke="#C0C0C0" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- Terminal node -->
+  <circle cx="386" cy="256" r="22" fill="#141414"/>
+</svg>

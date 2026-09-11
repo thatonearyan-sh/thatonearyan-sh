@@ -43,7 +43,7 @@ Building distributed software, high-throughput network engines, and physical/dig
   </tr>
   <tr style="border: none; background: transparent;">
     <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
-      <img src="assets/detrate-avatar.png" alt="DETRATEBTU Oracle" width="42" height="58" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.35);" />
+      <img src="assets/detrate-logo-flat.svg" alt="DETRATEBTU Noir" width="46" height="46" style="border-radius: 10px;" />&nbsp;<img src="assets/detrate-logo-light.svg" alt="DETRATEBTU Cream" width="46" height="46" style="border-radius: 10px;" />
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
       <b>Chief Technology Officer</b> &mdash; <b>DETRATEBTU</b><br />
