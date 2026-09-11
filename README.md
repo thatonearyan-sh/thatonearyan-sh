@@ -74,10 +74,20 @@ Building distributed software, high-throughput network engines, and physical/dig
 
 ### Core Engineering Focus
 
-- **Virtual Numbers & Telephony Engines**: High-throughput virtual phone number routing, MTProto/Pyrogram OTP validation, multi-country inventory lifecycles, and AES-256 session state machines.
-- **Distributed Systems & Protocols**: Multi-session client synchronization, MTProto presence stripping, real-time WebSocket event buses, and asynchronous RPC query architectures.
-- **In-Memory Volatile Security**: Ephemeral RAM-only payload decryption, hardware-fingerprinted licensing, and zero-disk process execution.
-- **Financial & Blockchain Rails**: Autonomous on-chain transaction monitoring (TON Network), memo-matched settlements, and unified UPI verification gateways.
+- **High-Throughput Telephony & Session Orchestration**  
+  Architecting multi-country virtual number routing engines, asynchronous MTProto/Pyrogram OTP interception pipelines, and distributed session lifecycle state machines. Engineered AES-256 encrypted session vaults with volatile RAM-only decryption to guarantee zero-plaintext disk exposure.
+
+- **Autonomous Financial Automation & Settlement Rails**  
+  Engineering fault-tolerant transaction pipelines combining dynamic UPI QR generation, automated manual payment reconciliation, and autonomous TON blockchain on-chain monitoring with memo-matched ledger settlements, vector PDF/Pillow invoicing, and automated 24-hour escrow hold timers.
+
+- **Real-Time Market Telemetry & Consensus Engines**  
+  Building low-latency cryptocurrency telemetry systems, multi-source consensus engines (TonAPI v2, Binance, CoinGecko), and sub-second AST financial mathematics processors coupled with server-side 2x Retina WebP visual spot card rasterizers.
+
+- **Physical–Digital Identity & Verification Rails**  
+  Designing tamper-evident, numbered physical passport-seal architectures connecting field machinery and completed service jobs to authenticated digital lifecycle ledgers via cryptographic QR verification nodes.
+
+- **Resilient Distributed Systems & Background Daemons**  
+  Developing high-concurrency, event-driven backends using Python AsyncIO, Redis caching, and autonomous background worker pools for continuous health monitoring, automated dead-session harvesting, and multi-channel database synchronization.
 
 ---
 
