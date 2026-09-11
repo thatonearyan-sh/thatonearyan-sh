@@ -1,6 +1,7 @@
 # Aryan
 
-**Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & CEO**, Aranch Pass &bull; **CTO**, KronosSMM  
+**Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & CEO**, Aranch Pass  
+**CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
 *Systems & Infrastructure Engineer &bull; Distributed Software Architecture*
 
 Building distributed software, high-throughput network engines, and physical/digital identity systems since 2022 (~3.5+ years of shipping code).  
@@ -33,11 +34,20 @@ Building distributed software, high-throughput network engines, and physical/dig
   </tr>
   <tr style="border: none; background: transparent;">
     <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
-      <img src="assets/kronos-logo.svg" alt="Kronos Noir" width="46" height="46" style="border-radius: 10px;" />&nbsp;<img src="assets/kronos-logo-light.svg" alt="Kronos Cream" width="46" height="46" style="border-radius: 10px;" />
+      <img src="assets/kronos-logo-flat.svg" alt="Kronos Noir Flat" width="46" height="46" style="border-radius: 10px;" />&nbsp;<img src="assets/kronos-logo-light.svg" alt="Kronos Cream Light" width="46" height="46" style="border-radius: 10px;" />
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
       <b>Chief Technology Officer</b> &mdash; <b>KronosSMM</b><br />
       Institutional Telegram growth &amp; fulfillment engine. Engineered in high-concurrency Python AsyncIO, aiogram 3.x, and FastAPI, bridging wholesale SMM APIs with dynamic UPI/TON payment reconciliation and automated vector PDF invoicing.
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
+      <img src="assets/detrate-avatar.png" alt="DETRATEBTU Oracle" width="42" height="58" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.35);" />
+    </td>
+    <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
+      <b>Chief Technology Officer</b> &mdash; <b>DETRATEBTU</b><br />
+      Institutional-grade market telemetry, dynamic cryptocurrency consensus (TonAPI v2, Binance, CoinGecko), AST financial mathematics engine, and 2x Retina WebP visual spot card rasterizer.
     </td>
   </tr>
 </table>
