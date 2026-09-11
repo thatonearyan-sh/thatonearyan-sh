@@ -46,8 +46,8 @@ Building distributed software, high-throughput network engines, and physical/dig
       <img src="assets/tgkronos-logo.svg" alt="TG-KRONOS" width="52" height="52" style="border-radius: 10px;" />
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
-      <b>Owner &amp; Systems Architect</b> &mdash; <b>TG-KRONOS</b> &bull; <code>v2.0 Telephony Engine</code><br />
-      Autonomous virtual numbers provisioning, telecommunications asset management, and session orchestration engine. Architected with Domain-Driven Design (DDD), Python AsyncIO, Pyrogram/Telethon MTProto pipelines, AES-256 encrypted session vaults, dynamic multi-country inventory lifecycles, and automated OTP delivery rails.
+      <b>Owner &amp; Systems Architect</b> &mdash; <b>TG-KRONOS</b> &bull; <code>Hundreds of Users Served</code><br />
+      Autonomous virtual numbers provisioning, telecommunications asset management, and session orchestration engine serving hundreds of active clients and operators. Architected with Domain-Driven Design (DDD), Python AsyncIO, Pyrogram/Telethon MTProto pipelines, AES-256 encrypted session vaults, dynamic multi-country inventory lifecycles, and automated OTP delivery rails.
     </td>
   </tr>
   <tr style="border: none; background: transparent;">
