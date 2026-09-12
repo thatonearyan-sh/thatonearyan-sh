@@ -1,7 +1,7 @@
 # Aryan
 
 **Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & Creator**, ExamCodes Bot &bull; **Founder & CEO**, Aranch Pass  
-**Owner**, TG-KRONOS &bull; **Architect**, Kronos Casino &bull; **Architect**, INVKRONOS &bull; **CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
+**Owner**, TG-KRONOS &bull; **CTO & Founder**, Kronos Casino &bull; **Architect**, INVKRONOS &bull; **CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
 *Systems & Infrastructure Engineer &bull; Distributed Software Architecture*
 
 Building distributed software, high-throughput network engines, and physical/digital identity systems since 2022 (~3.5+ years of shipping code).  
@@ -55,8 +55,8 @@ Building distributed software, high-throughput network engines, and physical/dig
       <img src="assets/kronos-casino-logo.svg" alt="Kronos Casino" width="52" height="52" style="border-radius: 10px;" />
     </td>
     <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
-      <b>Architect &amp; Lead Systems Engineer</b> &mdash; <b>Kronos Casino</b> &bull; <code>VIP Gaming &amp; Provably Fair</code><br />
-      High-concurrency Telegram VIP gaming suite and Mini App platform. Engineered with cryptographic provably fair verification (HMAC-SHA256), real-time WebSockets, dynamic TON Jetton vaults, and automated UPI cashier settlement rails.
+      <b>CTO &amp; Founder</b> &mdash; <b>Kronos Casino</b> &bull; <code>500+ MAU</code> &bull; <code>18.7% House Edge</code><br />
+      High-concurrency Telegram VIP gaming suite and Mini App platform serving 500+ monthly active users. Engineered with an immutable 18.7% mathematical house edge, cryptographic provably fair verification (HMAC-SHA256), atomic ledger accounting, dynamic TON Jetton vaults, and automated UPI cashier settlement rails.
     </td>
   </tr>
   <tr style="border: none; background: transparent;">
