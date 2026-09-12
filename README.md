@@ -1,7 +1,7 @@
 # Aryan
 
 **Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & Creator**, ExamCodes Bot &bull; **Founder & CEO**, Aranch Pass  
-**Owner**, TG-KRONOS &bull; **Architect**, INVKRONOS &bull; **CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
+**Owner**, TG-KRONOS &bull; **Architect**, Kronos Casino &bull; **Architect**, INVKRONOS &bull; **CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
 *Systems & Infrastructure Engineer &bull; Distributed Software Architecture*
 
 Building distributed software, high-throughput network engines, and physical/digital identity systems since 2022 (~3.5+ years of shipping code).  
@@ -48,6 +48,15 @@ Building distributed software, high-throughput network engines, and physical/dig
     <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
       <b>Owner &amp; Systems Architect</b> &mdash; <b>TG-KRONOS</b> &bull; <code>Hundreds of Users Served</code><br />
       Autonomous virtual numbers provisioning, telecommunications asset management, and session orchestration engine serving hundreds of active clients and operators. Architected with Domain-Driven Design (DDD), Python AsyncIO, Pyrogram/Telethon MTProto pipelines, AES-256 encrypted session vaults, dynamic multi-country inventory lifecycles, and automated OTP delivery rails.
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
+      <img src="assets/kronos-casino-logo.svg" alt="Kronos Casino" width="52" height="52" style="border-radius: 10px;" />
+    </td>
+    <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
+      <b>Architect &amp; Lead Systems Engineer</b> &mdash; <b>Kronos Casino</b> &bull; <code>VIP Gaming &amp; Provably Fair</code><br />
+      High-concurrency Telegram VIP gaming suite and Mini App platform. Engineered with cryptographic provably fair verification (HMAC-SHA256), real-time WebSockets, dynamic TON Jetton vaults, and automated UPI cashier settlement rails.
     </td>
   </tr>
   <tr style="border: none; background: transparent;">

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="KRONOS CASINO Logo">
+  <title>KRONOS CASINO — VIP Gaming Suite Logo</title>
+  <rect width="128" height="128" rx="16" fill="#000000"/>
+  <rect x="4" y="4" width="120" height="120" rx="12" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="2"/>
+  
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- VIP Crown Headpiece -->
+  <g fill="white" filter="url(#glow)">
+    <polygon points="38,28 47,20 54,26 64,16 74,26 81,20 90,28 87,31 41,31"/>
+    <circle cx="64" cy="14" r="1.5"/>
+    <circle cx="47" cy="18" r="1.2"/>
+    <circle cx="81" cy="18" r="1.2"/>
+  </g>
+
+  <!-- Cyber Architectural 'K' Monogram with Casino Spade Chevron -->
+  <g fill="white" filter="url(#glow)">
+    <!-- Left vertical stem -->
+    <rect x="36" y="36" width="14" height="50" rx="2"/>
+    <!-- Upper ascending arm -->
+    <polygon points="50,61 76,36 92,36 63,64"/>
+    <!-- Lower descending arm -->
+    <polygon points="60,57 92,86 76,86 50,63"/>
+    <!-- Central Casino Diamond Pip Accent -->
+    <polygon points="86,59 92,66 86,73 80,66" opacity="0.9"/>
+  </g>
+
+  <!-- Subtle bottom telemetry frequency lines identical to ExamCodes -->
+  <line x1="32" y1="104" x2="96" y2="104" stroke="white" stroke-width="2" opacity="0.6"/>
+  <line x1="40" y1="110" x2="88" y2="110" stroke="white" stroke-width="1.5" opacity="0.3"/>
+</svg>
