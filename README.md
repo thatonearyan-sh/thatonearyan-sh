@@ -129,6 +129,22 @@ Building distributed software, high-throughput network engines, and physical/dig
 
 ---
 
+### Engineering Activity & Telemetry
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/10b981/thatonearyan-sh" alt="Aryan's 365-Day Contribution Heatmap" width="100%" />
+</div>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatonearyan-sh&layout=compact&theme=dark&bg_color=000000&border_color=222222&title_color=FFFFFF&text_color=A0A0A0" alt="Most Used Languages" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=thatonearyan-sh&theme=dark&background=000000&border=222222&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF" alt="Contribution Streak & Ledger" height="165" />
+</p>
+
+---
+
 ### Communications
 
 - **Email:** [thatonearyan@gmail.com](mailto:thatonearyan@gmail.com)
