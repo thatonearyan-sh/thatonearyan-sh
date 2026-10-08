@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>SMM UP</title>
+  <rect width="64" height="64" rx="12" fill="#050505"/>
+  <path d="M 17 40 L 32 15 L 47 40 L 40.5 40 L 32 25.5 L 23.5 40 Z" fill="#FAF9F7"/>
+  <line x1="19" y1="48" x2="45" y2="48" stroke="#FAF9F7" stroke-width="3" stroke-linecap="butt" opacity="0.9"/>
+</svg>

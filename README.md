@@ -1,6 +1,6 @@
 # Aryan
 
-**Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & Creator**, ExamCodes Bot &bull; **Founder & CEO**, Aranch Pass  
+**Founder & CEO**, [ExamCodes](https://examcodes.site) &bull; **Founder & Owner**, [SMM UP](https://smmup.co.in) &bull; **Founder & Creator**, ExamCodes Bot &bull; **Founder & CEO**, Aranch Pass  
 **Owner**, TG-KRONOS &bull; **CTO & Founder**, Kronos Casino &bull; **Architect**, INVKRONOS &bull; **CTO**, KronosSMM &bull; **CTO**, DETRATEBTU  
 *Systems & Infrastructure Engineer &bull; Distributed Software Architecture*
 
@@ -14,11 +14,22 @@ Building distributed software, high-throughput network engines, and physical/dig
 <table border="0" style="border: none; background: transparent; border-collapse: collapse;">
   <tr style="border: none; background: transparent;">
     <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px;">
+      <a href="https://smmup.co.in">
+        <img src="assets/smmup-logo.png" alt="SMM UP" width="52" height="52" style="border-radius: 10px;" />
+      </a>
+    </td>
+    <td valign="middle" align="left" style="border: none; background: transparent;">
+      <b>Founder &amp; Owner</b> &mdash; <b><a href="https://smmup.co.in">SMM UP</a></b> &bull; <code>2,100+ Wholesale Services</code> &bull; <code>0% UPI Direct Fee</code><br />
+      India's wholesale social media marketing and reseller platform (<a href="https://smmup.co.in">smmup.co.in</a>). Engineered with direct provider aggregation across 2,100+ services, 0% platform-fee Direct UPI bank settlement rails (automated UTR verification &amp; IMAP reconciliation), high-concurrency SMM v2 Reseller APIs, MongoDB replica-set transactions, and an owner-governed Telegram administration bot.
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td width="112" valign="middle" align="center" style="border: none; background: transparent; padding-right: 18px; padding-top: 18px;">
       <a href="https://examcodes.site">
         <img src="assets/examcodes-logo.svg" alt="ExamCodes Site" width="52" height="52" style="border-radius: 10px;" />
       </a>
     </td>
-    <td valign="middle" align="left" style="border: none; background: transparent;">
+    <td valign="middle" align="left" style="border: none; background: transparent; padding-top: 18px;">
       <b>Founder &amp; CEO</b> &mdash; <b><a href="https://examcodes.site">ExamCodes</a></b> &bull; <code>1,100+ MAU</code> &bull; <code>₹15k+ First Month</code><br />
       Digital learning infrastructure platform and competitive examination marketplace. Bootstrapped from a cold launch with zero initial following to ₹15,000+ in revenue within its first 30 days; actively serving 1,100+ monthly learners. Engineered with React, Supabase real-time persistence, and automated payment pipelines.
     </td>
